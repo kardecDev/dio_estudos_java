@@ -17,6 +17,7 @@ public class TiposVariaveis {
         
         //Alterando um valor declarado em uma variável
         int numero = 5;
+        System.out.println(numero);
         numero = 10;
         //Para definir constantes é necessário  usar caixa alta e a a instrução final no inicio da declaração
         final double VALOR_DE_PI = 3.14;
